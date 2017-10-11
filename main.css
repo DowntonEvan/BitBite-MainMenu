@@ -12,11 +12,31 @@ body{
     text-align: center;
     margin-top: 3%;
 }
-.CryptoDef{
+.CryptoInfo{
     font-size: 30px;
     color: white;
     position: fixed;
     text-align: center;
     width: 100%;
     bottom: 7%;
+}
+
+.CryptoButton {
+    background-color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-radius: 0.2em;
+    color: #0088FF;
+    padding: 13px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+.CryptoButton:hover{
+    background-color: #0088FF;
+    color: white;
 }

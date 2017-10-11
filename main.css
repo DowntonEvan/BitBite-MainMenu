@@ -1,1 +1,22 @@
+body{
+    font-family: 'Work Sans', 'sans-serif';
+    font-weight: 400;
+    font-size: 24px;
+    background: rgb(0, 136, 255);
+}
 
+.MainTitle{
+    font-weight: 300;
+    font-size: 56px;
+    color: white;
+    text-align: center;
+    margin-top: 3%;
+}
+.CryptoDef{
+    font-size: 30px;
+    color: white;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 7%;
+}

@@ -40,3 +40,21 @@ body{
     background-color: #0088FF;
     color: white;
 }
+
+.button1{
+    position: absolute;
+    width: 40%;
+    margin-top: 10%;
+}
+.button2{
+    position: absolute;
+    width: 40%;
+    margin-top: 50%;
+    margin-left: 56%;
+}
+.button3{
+    position: absolute;
+    width: 40%;
+    margin-top: 90%;
+}
+

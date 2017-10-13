@@ -58,3 +58,19 @@ body{
     margin-top: 90%;
 }
 
+.bitcoin{
+    color: white;
+    font-size: 12px;
+    position:absolute;
+    margin-top:15%;
+    margin-left:46%;
+}
+
+.ripple{
+    color: white;
+    font-size: 12px;
+    position:absolute;
+    margin-top: 95%;
+    margin-left: 46%;
+}
+

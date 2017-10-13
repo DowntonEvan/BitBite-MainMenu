@@ -74,3 +74,11 @@ body{
     margin-left: 46%;
 }
 
+.ethereum{
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    padding-right: 45%;
+    margin-top: 55%;
+    margin-left: 3%;
+}
